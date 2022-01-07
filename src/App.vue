@@ -13,5 +13,5 @@ export default {
 </script>
 
 <style>
-@import "./asserts/css/base"
+@import "asserts/css/base.css";
 </style>
